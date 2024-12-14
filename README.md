@@ -35,5 +35,5 @@ This project simulates a warehouse management system, implementing object-orient
    ```bash
    java src/main/StockManager
 
-Contact
+Contact:
 For any questions, feel free to contact me at maybemali0757@gmail.com.
