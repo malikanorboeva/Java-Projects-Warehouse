@@ -1,0 +1,10 @@
+[1] Alize Sunset(60x60x60) 244kg 18360€ cooling
+[2] Fudge - Chocolate Fudge(30x30x30) 42kg 972€ cooling
+[3] Bamboo Shoots - Sliced(90x90x90) 114kg 59049€
+[4] Mousse - Banana Chocolate(90x90x90) 54kg 14580€ cooling
+[5] Cookies - Amaretto(90x90x48) 282kg 1800€ cooling
+[6] Melon - Watermelon, Seedless(90x90x90) 1571kg 15309€ cooling
+[7] Veal - Inside(90x90x90) 343kg 29160€
+[8] Sambuca - Opal Nera(90x90x90) 1230kg 64152€
+[9] Beer - Molson Excel(90x90x8) 9kg 1080€
+[10] Tabasco Sauce, 2 Oz(60x60x60) 684kg 2376€ cooling
