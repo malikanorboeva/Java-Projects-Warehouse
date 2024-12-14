@@ -34,3 +34,6 @@ This project simulates a warehouse management system, implementing object-orient
 3. Run the main class:
    ```bash
    java src/main/StockManager
+
+Contact
+For any questions, feel free to contact me at maybemali0757@gmail.com.
