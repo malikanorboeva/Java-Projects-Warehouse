@@ -28,3 +28,9 @@ This project simulates a warehouse management system, implementing object-orient
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Warehouse-Management-System.git
+2. Navigate to the desired task folder (e.g., Aufgabe8) and compile the project:
+   ```bash
+   javac src/main/*.java
+3. Run the main class:
+   ```bash
+   java src/main/StockManager
